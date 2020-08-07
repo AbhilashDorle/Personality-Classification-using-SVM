@@ -7,6 +7,7 @@ A quick study of every face can be made to determine the person’s basic nature
 An attempt to understand the strategies described in the book and implement them using machine learning techniques was the objective. The development of such a system would require good quality images which are usually difficult to find. We may therefore not find the classification to be accurate. 
 
 PROBLEM DESCRIPTION
+
 The initial problem was that of categorization, according to the shape of an individuals face. This categorization was mapped according to the guidelines mentioned in the book. 
 
 The book in accordance with the technique “Mieng Shiang” have plotted various face shape with personalities, this has been done with years of experience inculcated into the technique. As an instance given in the book, a person with rectangular face shape has anger as their predominant emotion. 
